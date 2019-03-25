@@ -1,0 +1,4 @@
+#Mon Mar 25 15:58:43 EET 2019
+base.0=D\:\\Android\\flutterProjects\\Flare-Flutter\\example\\simple\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
